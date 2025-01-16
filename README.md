@@ -6,13 +6,18 @@ This repository serves simply as an index for projects finished as part of [boot
 
 1. [bd-asteroids](https://github.com/docherak/bd-asteroids)  
    - **Language**: Python 
-   - **Topic**: Object-Oriented Programming (OOP)  
+   - **Topic**: Object-Oriented Programming (OOP)
    - **Type**: Guided
 
 2. [bd-static-site-generator](https://github.com/docherak/bd-static-site-generator)  
    - **Language**: Python
-   - **Topic**: Functional Programming (FP)  
+   - **Topic**: Functional Programming (FP)
    - **Type**: Guided
+
+3. [bd-maze-solver](https://github.com/docherak/bd-maze-solver)
+   - **Language**: Python
+   - **Topic**: Algorithms
+   - **Type**: Semi-guided
 
 ## boot.dev profile
 
