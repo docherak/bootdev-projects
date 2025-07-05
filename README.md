@@ -18,6 +18,11 @@ This repository serves simply as an index for projects finished as part of [boot
    - **Language**: Python
    - **Topic**: Algorithms
    - **Type**: Semi-guided
+  
+4. [bd-chirpy](https://github.com/docherak/bd-chirpy)
+   - **Language**: Golang
+   - **Topic**: HTTP Servers
+   - **Type**: Semi-guided
 
 ## boot.dev profile
 
